@@ -1,5 +1,5 @@
 # NodalAnalaysis
-Circuit modelation and Gauss Elimination for solve circuits by node method
+Circuit modelation and Gauss Elimination for solve circuits by node method. Nov 2023.
 
 # Gauss Elimination for circuits nodal analysis 
 I expanded the scope of a work designed for numerical methods.
