@@ -623,8 +623,6 @@ def pivotedGauss(A: np.ndarray, b: np.ndarray) -> np.ndarray:
     return x
 
 """## Results
-
-Esta celda será utilizada para mostrar el resultado del analisis del circuito, con ambos códigos anexados (nodos y eliminación)
 """
 
 x = pivotedGauss(A, B)
