@@ -4,7 +4,10 @@
 #Eliminación Gaussiana para realizar análisis nodal de un circuito
 Método de nodos para análisis de circuitos y uso de eliminación Gaussiana para resolver el sistema de ecuaciones.
 
-El código no ha sido optimizado pero puede usarse de referencia, el alcance de este análisis por nodos ha sido probado con los circuitos de ejemplo y puede ser funcional para casos con resistencia, fuentes de voltaje y fuentes de corriente(siempre que sean independientes) y super nodos. Sin embargo quizá exista discrepancia para circuitos más complejos; por ejemplo casos donde haya supernodos que incluyan más de 2 nodos.
+El código no ha sido optimizado pero puede usarse de referencia, el alcance de este análisis por nodos ha sido probado 
+con los circuitos de ejemplo y puede ser funcional para casos con resistencia, fuentes de voltaje y fuentes
+de corriente(siempre que sean independientes) y super nodos. Sin embargo quizá exista discrepancia para circuitos más complejos; 
+por ejemplo casos donde haya supernodos que incluyan más de 2 nodos.
 Úsese como referencia y no como un solucionador de análisis de nodo.
 
 
