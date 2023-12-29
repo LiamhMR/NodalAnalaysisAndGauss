@@ -3,7 +3,7 @@ Circuit modelation and Gauss Elimination for solve circuits by node method. Nov 
 
 # Gauss Elimination for circuits nodal analysis 
 I expanded the scope of a work designed for numerical methods.
-The code didn't was optimize but it could be use as a reference, the reach of this code was proved with examples circuits, could work in cases of resisntors, voltage sources and current sources (as long as they are independent) and supernode cases. Maybe it could not work properly in cases with supernodes with 3 or more nodes, and could get difference with real results. Anyway it could be use as reference.
+The code didn't was optimize but it could be use as a reference, the reach of this code was proved with example circuits, could work in cases of resistors, voltage sources and current sources (as long as they are independent) and supernode cases. Maybe it could not work properly in cases with supernodes with 3 or more nodes, and could get difference with real results. Anyway it could be use as reference.
 There is the file .ipynb ideal for work in collab, also there is the file .py with the code and comments. ~~Both with spanish descriptions by now.~~
 # Update: 
   > Added english version of .py and .ipynb (Dec 2023)
