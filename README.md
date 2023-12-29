@@ -26,4 +26,4 @@ Se encuentra el archivo '.ipynb' ideal para trabajar en collab con las descripci
   >English:
     https://colab.research.google.com/drive/1Nmvgg8uB4KbRb2qSAPSmvguhKiiYA9Qy <br /> 
   >Español:
-    https://drive.google.com/file/d/1V3q3d9rCxQBtZ5kPU5vI_0K6Luzu4pvy/view?usp=drive_link
+    https://colab.research.google.com/drive/1V3q3d9rCxQBtZ5kPU5vI_0K6Luzu4pvy
