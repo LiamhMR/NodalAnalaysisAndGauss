@@ -19,7 +19,7 @@ Se encuentra el archivo '.ipynb' ideal para trabajar en collab con las descripci
 # Actualizacion: 
   > Agregada la versión en ingles del .py y .ipynb (Dic 2023)
 
-#References/Referencias
+# References/Referencias
   > http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
 
 # Personal Drive of Google collab with jupiter to test by yourself
