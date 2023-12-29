@@ -21,3 +21,7 @@ Se encuentra el archivo '.ipynb' ideal para trabajar en collab con las descripci
 
 #References/Referencias
 http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+
+# Personal Drive of Google collab with jupiter to test by yourself
+  >English: https://drive.google.com/file/d/1Nmvgg8uB4KbRb2qSAPSmvguhKiiYA9Qy/view?usp=drive_link
+  >Español: https://drive.google.com/file/d/1V3q3d9rCxQBtZ5kPU5vI_0K6Luzu4pvy/view?usp=drive_link
